@@ -1,0 +1,11 @@
+# 생성물·백업 (저장소에 올리지 않는다)
+work/
+logs/
+*.bin
+*.img
+*.log
+!qfil_gpt/*.bin
+
+__pycache__/
+*.pyc
+.DS_Store
